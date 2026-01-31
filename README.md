@@ -1,44 +1,40 @@
-# School-Management-System-UMLDesign
+# School Management System – UML Design
 
-Project Description
-This project focuses on the system analysis and design of a School Management System using UML diagrams.
-The goal is to model the system structure, behavior, and interactions before implementation.
+## Project Description
+This project focuses on the system analysis and design of a School Management System.  
+It aims to model the system structure, behavior, and interactions before implementation.
 
+## Diagrams Included
+- **Use Case Diagram**  
+  Identifies system actors and their interactions with the system.
 
-📐 Diagrams Included
-The project includes the following diagrams:
+- **Class Diagram**  
+  Defines system classes, attributes, methods, and relationships.
 
-Use Case Diagram
-Identifies system actors and their interactions with the system.
+- **Object Diagram**  
+  Represents object instances and their relationships at a specific time.
 
-Class Diagram
-Defines system classes, attributes, methods, and relationships.
+- **Sequence Diagram**  
+  Illustrates the interaction flow between objects over time.
 
-Object Diagram
-Represents object instances and their relationships at a specific time.
+- **Collaboration Diagram**  
+  Shows object interactions with emphasis on message exchange and relationships.
 
-Sequence Diagram
-Illustrates the interaction flow between objects over time.
+- **Activity Diagram**  
+  Represents workflows and business processes of the system.
 
-Collaboration Diagram
-Shows object interactions with emphasis on message exchange and relationships.
+- **Data Flow Diagram (DFD)**  
+  Demonstrates how data moves through the system and between processes.
 
-Activity Diagram
-Represents workflows and business processes of the system.
+## Tools Used
+- Draw.io
+- Lucidchart
+- UML Modeling Techniques
 
-Data Flow Diagram (DFD)
-Demonstrates how data moves through the system and between processes.
+## Project Objective
+- Understand system requirements  
+- Apply object-oriented analysis and design  
+- Prepare a blueprint for future development
 
-
-🛠️ Tools Used
-   Draw.io / Lucidchart 
-   UML Modeling Techniques
-
-
-🎯 Project Objective
-   Understand system requirements
-   Apply object-oriented analysis and design
-   Prepare a clear blueprint for future development
- 
-👩‍💻 Author
-Menna Ahmed
+## Author
+**Menna Ahmed**
